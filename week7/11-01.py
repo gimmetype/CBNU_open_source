@@ -1,0 +1,4 @@
+inFp = None
+inStr = ""
+
+inFp = 
